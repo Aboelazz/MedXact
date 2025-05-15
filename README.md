@@ -2,7 +2,7 @@
 
 **MedXact** is a next-gen, glove-controlled robotic arm system for **remote surgery**, **precision tasks**, and **medical training**. It uses **ESP32**, servo motors, LDR sensors, and a gyroscope to deliver low-cost, high-precision surgical assistance — all built with open-source hardware.
 
-# Demo Vedo
+# Demo Video 
 https://youtu.be/SnOzzVcm4LE?si=zSGdLTEbSQiV49Dh
 
 #  Project Vision
