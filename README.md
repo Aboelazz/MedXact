@@ -51,6 +51,6 @@ Integration with ChatGPT for contextual support during operation
 # Author
 **Youssef Aboelazz** | **Habiba Hossam**
 
-Ismailia STEM High School
-Robotics Engineer | Embedded Systems Dev
+**Ismailia STEM High School**
+| Robotics Engineer | Embedded Systems Dev
 GitHub Profile — drop a ⭐ if this project inspires you!
