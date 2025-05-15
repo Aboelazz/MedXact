@@ -45,7 +45,9 @@ Live video streaming via web UI
 Integration with ChatGPT for contextual support during operation
 
 
-# This project is open-source under the **MIT** License. Use it, improve it, and share it — just give credit where it’s due!
+# License
+This project is open-source under the **MIT** License. 
+Use it, improve it, and share it — just give credit where it’s due!
 
 
 # Author
