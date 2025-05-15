@@ -33,6 +33,13 @@ Modern surgical robotics like the Da Vinci system are powerful, but **expensive 
 | 3D-Printed Parts    | Arm, wrist, fingers, camera holder     |
 
 
+# Images
+
+![Image](https://github.com/user-attachments/assets/f011b266-62e7-40a0-bd35-4975608539b3)
+![Image](https://github.com/user-attachments/assets/5a329457-4e41-4d2a-bf62-f249c884efcd)
+![Image](https://github.com/user-attachments/assets/1ce23f23-54c3-422e-b7b1-4c0dc42129ff)
+![Image](https://github.com/user-attachments/assets/75b51df1-2422-490e-837c-7c02cf521c05)
+
 # How It Works
 
 1. The glove sends real-time finger and hand position data.
